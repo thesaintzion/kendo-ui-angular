@@ -27,6 +27,8 @@
     "@progress/kendo-licensing": "^1.0.2",
     "@progress/kendo-theme-default": "latest",
     "@progress/kendo-theme-material": "^3.31.0",
+    "ag-grid-angular": "^25.1.0",
+    "ag-grid-community": "^25.1.0",
     "rxjs": "~6.6.0",
     "tslib": "^2.0.0",
     "zone.js": "~0.10.2"
